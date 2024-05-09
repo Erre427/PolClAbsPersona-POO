@@ -1,0 +1,6 @@
+/home/marcos-daniel/Documentos/Programacion Orientada a Objetos/Unidad 1/Polimorfismo-POO/P7PolClAbsPersona/bin/Debug/P7PolClAbsPersona.exe
+/home/marcos-daniel/Documentos/Programacion Orientada a Objetos/Unidad 1/Polimorfismo-POO/P7PolClAbsPersona/bin/Debug/P7PolClAbsPersona.pdb
+/home/marcos-daniel/Documentos/Programacion Orientada a Objetos/Unidad 1/Polimorfismo-POO/P7PolClAbsPersona/obj/Debug/P7PolClAbsPersona.csproj.AssemblyReference.cache
+/home/marcos-daniel/Documentos/Programacion Orientada a Objetos/Unidad 1/Polimorfismo-POO/P7PolClAbsPersona/obj/Debug/P7PolClAbsPersona.csproj.CoreCompileInputs.cache
+/home/marcos-daniel/Documentos/Programacion Orientada a Objetos/Unidad 1/Polimorfismo-POO/P7PolClAbsPersona/obj/Debug/P7PolClAbsPersona.exe
+/home/marcos-daniel/Documentos/Programacion Orientada a Objetos/Unidad 1/Polimorfismo-POO/P7PolClAbsPersona/obj/Debug/P7PolClAbsPersona.pdb
